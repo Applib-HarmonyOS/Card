@@ -1,0 +1,20 @@
+<element name='neuavatar' src='../../../../../../node_modules/neumorphism/avatar/avatar.hml'></element>
+<element name='neucard' src='../../../../../../node_modules/neumorphism/card/card.hml'></element>
+<element name='neutheme' src='../../../../../../node_modules/neumorphism/theme/theme.hml'></element>
+
+<neutheme class="container" theme="" color="">
+    <text class='title'>
+        Avatar with round borders
+    </text>
+    <neuavatar icon="common/user.png" width="100px" height="100px" border="50px"></neuavatar>
+    <text class='title'>
+        Avatar with square borders
+    </text>
+    <neuavatar icon="common/user.png" width="100px" height="100px" border="0px"></neuavatar>
+    <text class='title'>
+        Card
+    </text>
+    <neucard width="300px" height="200px" border="10px" >
+        <image src="common/placeholder.png" ></image>
+    </neucard>
+</neutheme>
