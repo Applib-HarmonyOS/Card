@@ -55,3 +55,9 @@ Usage:
   <image src="common/placeholder.png" ></image>
 </neucard>
 ```
+
+# Reference:
+
+<a href="https://neumorphism.io/">neumorphism.io</a>
+
+<a href="https://ismail9k.github.io/neomorphism/">ismail9k.github.io/neomorphism</a>
