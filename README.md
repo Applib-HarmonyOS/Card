@@ -1,8 +1,6 @@
 # Neumorphism_Card
 
-Install using npm inside pages directory
-
-```npm init -y```
+Install using npm
 
 ```npm i hmos-neumorphism ```
 
@@ -25,7 +23,7 @@ button, input{
 
 Import:
 ```html
-<element name='neuavatar' src='../node_modules/hmos-neumorphism/avatar/avatar.hml'></element>
+<element name='neuavatar' src='../../../../../../node_modules/hmos-neumorphism/avatar/avatar.hml'></element>
 ```
 
 Usage:
@@ -39,7 +37,7 @@ Usage:
 
 Import:
 ```html
-<element name='neucard' src='../node_modules/hmos-neumorphism/card/card.hml'></element>
+<element name='neucard' src='../../../../../../node_modules/hmos-neumorphism/card/card.hml'></element>
 ```
 
 Usage:
