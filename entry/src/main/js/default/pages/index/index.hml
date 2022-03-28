@@ -1,6 +1,6 @@
-<element name='neuavatar' src='../../../../../../node_modules/neumorphism/avatar/avatar.hml'></element>
-<element name='neucard' src='../../../../../../node_modules/neumorphism/card/card.hml'></element>
-<element name='neutheme' src='../../../../../../node_modules/neumorphism/theme/theme.hml'></element>
+<element name='neutheme' src='../../../../../../node_modules/hmos-neumorphism/theme/theme.hml'></element>
+<element name='neuavatar' src='../../../../../../node_modules/hmos-neumorphism/avatar/avatar.hml'></element>
+<element name='neucard' src='../../../../../../node_modules/hmos-neumorphism/card/card.hml'></element>
 
 <neutheme class="container" theme="" color="">
     <text class='title'>

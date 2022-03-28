@@ -1,17 +1,8 @@
 # Neumorphism_Card
 
-# Installation :
+Install using npm
 
-1. Copy the neumorph_card folder in your repo.
-2. Add neumorphism as a dependency in your package.json file.
-
-```json
-{
-  "dependencies": {
-    "neumorphism": "file:../neumorph_card"
-  }
-}
-```
+```npm i hmos-neumorphism ```
 
 # Note :
 
@@ -32,7 +23,7 @@ button, input{
 
 Import:
 ```html
-<element name='neuavatar' src='../../../../../../node_modules/neumorphism/avatar/avatar.hml'></element>
+<element name='neuavatar' src='../../../../../../node_modules/hmos-neumorphism/avatar/avatar.hml'></element>
 ```
 
 Usage:
@@ -46,7 +37,7 @@ Usage:
 
 Import:
 ```html
-<element name='neucard' src='../../../../../../node_modules/neumorphism/card/card.hml'></element>
+<element name='neucard' src='../../../../../../node_modules/hmos-neumorphism/card/card.hml'></element>
 ```
 
 Usage:
